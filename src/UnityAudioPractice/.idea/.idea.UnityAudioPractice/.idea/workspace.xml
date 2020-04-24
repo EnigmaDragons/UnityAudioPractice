@@ -11,11 +11,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utilities/OnKeyPress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Navigator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/InitMixerVolumeLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/MixerVolumeSlider.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Navigator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioSlider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MixerVolumeSlider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Navigator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utilities/OnKeyPress.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/InitMixerVolumeLevel.cs" />
       </list>
     </option>
   </component>
@@ -65,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587757407379</updated>
-      <workItem from="1587757409003" duration="249000" />
+      <workItem from="1587757409003" duration="1885000" />
     </task>
     <servers />
   </component>
